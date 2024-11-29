@@ -17,4 +17,5 @@ alias iota="ssh -i ~/iota/1.iota jskang@114.110.129.13"
 
 
 git config --global user.name jesnk
+git config --global user.email jesnk@snu.ac.kr
 git config --global credential.helper store
