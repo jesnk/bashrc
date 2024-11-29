@@ -3,6 +3,7 @@ alias sb='source ~/.bashrc'
 alias wn='watch -d -n0.5 nvidia-smi'
 alias c0='du -h --max-depth=1'
 alias c0w='watch -n1 -d du -h --max-depth=1'
+alias iota="ssh -i ~/iota/1.iota jskang@114.110.129.13"
 
 
 
